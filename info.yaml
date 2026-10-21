@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "8-bit Tiny ALU"
-  author:       "Joseph Santhosh"
+  author:       "JASWANTH yEDUPATI"
   discord:      "" 
   description:  "8-bit arithmetic logic unit supporting arithmetic, logic, and shift operations with status flags."
   language:     "Verilog"
